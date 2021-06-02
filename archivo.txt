@@ -1,1 +1,1 @@
-Archivo para probar código cambios, para diferentes casos.
+Archivo para probar código cambios ahora solo en la rama de desarrollo, para diferentes casos.
