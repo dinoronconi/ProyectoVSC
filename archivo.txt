@@ -1,1 +1,1 @@
-Archivo para probar código Python, para diferentes casos.
+Archivo para probar código cambios, para diferentes casos.
